@@ -10,9 +10,9 @@
 ### 🌐 Me Contacter & Liens Utiles
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dean-leveneur)
-[![Portfolio](https://img.shields.io/badge/Mon_Portfolio-0055FF?style=for-the-badge&logo=react&logoColor=white)](https://dean-leveneur.github.io)
+[![Mon Portfolio](https://img.shields.io/badge/Mon_Portfolio-0055FF?style=for-the-badge&logo=react&logoColor=white)](https://dean-leveneur.github.io/portfolio/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dean.leveneur@insa-lyon.fr)
-[![INSA Lyon](https://img.shields.io/badge/INSA_Lyon-3IF-BF0000?style=for-the-badge&logo=google-academic&logoColor=white)](https://www.insa-lyon.fr/)
+[![INSA Lyon IF](https://img.shields.io/badge/INSA_Lyon-Département_Informatique-BF0000?style=for-the-badge&logo=google-academic&logoColor=white)](https://if.insa-lyon.fr/)
 
 </div>
 
@@ -20,7 +20,7 @@
 
 ## 👨‍💻 À Propos de Moi
 
-- 🎓 **Formation :** En 3ᵉ année du cursus d'ingénieur au département **Informatique (3IF)** de l'**INSA Lyon**.
+- 🎓 **Formation :** En 3ᵉ année du cursus d'ingénieur au département **[Informatique (3IF)](https://if.insa-lyon.fr/)** de l'**INSA Lyon**.
 - 📍 **Localisation :** Lyon / Villeurbanne & La Réunion (Le Tampon / Saint-Pierre).
 - 💼 **Recherche de Stage :** Stage ingénieur de **8 à 14 semaines** à partir de **mi-juin 2027** *(Zones : TCL Lyon / Villeurbanne ou La Réunion)*.
 - ⚡ **Centres d'intérêt :** Architecture logicielle, systèmes embarqués POSIX/BLE, modélisation de systèmes chaotiques, automatisation d'outils métiers par LLM, running & guitare/piano.
@@ -156,7 +156,7 @@
 
 <div align="center">
 
-💬 *« N'hésite pas à me contacter sur [LinkedIn](https://www.linkedin.com/in/dean-leveneur) ou à consulter mon [Portfolio](https://dean-leveneur.github.io) pour échanger sur un projet ou une opportunité ! »*
+💬 *« N'hésite pas à me contacter sur [LinkedIn](https://www.linkedin.com/in/dean-leveneur) ou à consulter mon [Portfolio](https://dean-leveneur.github.io/portfolio/) pour échanger sur un projet ou une opportunité ! »*
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=dean-leveneur&color=38BDF8&style=flat-square&label=Visiteurs)
 
