@@ -21,7 +21,7 @@
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">🧗 EscaBlind</h3>
+      <h3 align="center"><a href="https://github.com/dean-leveneur/escablind">🧗 EscaBlind</a></h3>
       <p align="center">
         <b>Guidage Audio & Haptique pour Escalade</b><br>
         <img src="https://img.shields.io/badge/Arduino/ESP32-00979D?style=flat-square">
@@ -33,12 +33,9 @@
         <li>Firmware embarqué Arduino/ESP32 et communication BLE.</li>
         <li>Application mobile Flutter avec retour vocal.</li>
       </ul>
-      <p align="center">
-        <a href="https://github.com/dean-leveneur/escablind">👉 Voir le projet</a>
-      </p>
     </td>
     <td width="50%">
-      <h3 align="center">🌐 MapMyNet</h3>
+      <h3 align="center"><a href="https://github.com/dean-leveneur/mapmynet">🌐 MapMyNet</a></h3>
       <p align="center">
         <b>Simulateur de Routage Réseau</b><br>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square">
@@ -50,14 +47,11 @@
         <li>Visualisation de graphes et test d'algorithmes (BFS, DFS, Dijkstra, A*).</li>
         <li>Simulation de pannes de routeurs et de liaisons.</li>
       </ul>
-      <p align="center">
-        <a href="https://github.com/dean-leveneur/mapmynet">👉 Voir le projet</a>
-      </p>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center">🌀 Double Pendule</h3>
+      <h3 align="center"><a href="https://github.com/dean-leveneur/double-pendulum">🌀 Double Pendule</a></h3>
       <p align="center">
         <b>Modélisation Numérique</b><br>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square">
@@ -69,12 +63,9 @@
         <li>Résolution des équations du mouvement via SciPy (Runge-Kutta 4).</li>
         <li>Conception d'un banc d'essai physique en MDF.</li>
       </ul>
-      <p align="center">
-        <a href="https://github.com/dean-leveneur/double-pendulum">👉 Voir le projet</a>
-      </p>
     </td>
     <td width="50%">
-      <h3 align="center">📧 RunMail</h3>
+      <h3 align="center"><a href="https://github.com/dean-leveneur/RunMail">📧 RunMail</a></h3>
       <p align="center">
         <b>Assistant de Réponse aux E-mails</b><br>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square">
@@ -86,9 +77,6 @@
         <li>Connexion IMAP, création de brouillons et envoi SMTP.</li>
         <li>Interface web simple développée avec Flask.</li>
       </ul>
-      <p align="center">
-        <a href="https://github.com/dean-leveneur/RunMail">👉 Voir le projet</a>
-      </p>
     </td>
   </tr>
 </table>
