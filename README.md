@@ -3,15 +3,6 @@
 # Salut, moi c'est Dean Leveneur 👋
 ### 🎓 Élève-Ingénieur en Informatique à l'INSA Lyon (3IF)
 
----
-
-### 🌐 Me Contacter & Liens Utiles
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dean-leveneur)
-[![Mon Portfolio](https://img.shields.io/badge/Mon_Portfolio-0055FF?style=for-the-badge&logo=react&logoColor=white)](https://dean-leveneur.github.io/portfolio/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dean.leveneur@insa-lyon.fr)
-[![INSA Lyon IF](https://img.shields.io/badge/INSA_Lyon-Département_Informatique-BF0000?style=for-the-badge&logo=google-academic&logoColor=white)](https://if.insa-lyon.fr/)
-
 </div>
 
 ---
@@ -85,6 +76,11 @@
 
 <div align="center">
 
-![Visitor Count](https://komarev.com/ghpvc/?username=dean-leveneur&color=38BDF8&style=flat-square&label=Visiteurs)
+### 🌐 Me Contacter & Liens Utiles
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dean-leveneur)
+[![Mon Portfolio](https://img.shields.io/badge/Mon_Portfolio-0055FF?style=for-the-badge&logo=react&logoColor=white)](https://dean-leveneur.github.io/portfolio/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dean.leveneur@insa-lyon.fr)
+[![INSA Lyon IF](https://img.shields.io/badge/INSA_Lyon-Département_Informatique-BF0000?style=for-the-badge&logo=google-academic&logoColor=white)](https://if.insa-lyon.fr/)
 
 </div>
